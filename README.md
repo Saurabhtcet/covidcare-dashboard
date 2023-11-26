@@ -1,9 +1,9 @@
-## VCET Hackathon Project - Runner's Up (Out of 31 Particpating Groups)
+
 
 ### Problem Statement: 
 Creating a single user friendly dashboard essentially fulfilling all needs of the user by providing valuable information like availability of ICU beds, oxygen, ambulances and even the patient status all in one place
 
-#### The Web-App is being hosted on Heroku server and can be accessed by the following link: [**Covid Care Center**](https://covid-care-vcet.herokuapp.com/ "Covid-Care-Center")
+#### The Web-App is being hosted on Heroku server and can be accessed by the following link: [**Covid Care Center**]
 
 ---
 

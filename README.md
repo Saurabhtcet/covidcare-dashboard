@@ -3,7 +3,7 @@
 ### Problem Statement: 
 Creating a single user friendly dashboard essentially fulfilling all needs of the user by providing valuable information like availability of ICU beds, oxygen, ambulances and even the patient status all in one place
 
-#### The Web-App is being hosted on Heroku server and can be accessed by the following link: [**Covid Care Center**]
+
 
 ---
 
